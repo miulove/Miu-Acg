@@ -1240,6 +1240,14 @@
         {
             "name":"YouTube_Music.png",
             "url":"https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube_Music.png"
+        },
+        {
+            "name":"227.jk01.png",
+            "url":"https://raw.githubusercontent.com/miulove/Miu-Acg/master/227/jk01.png"
+        },
+        {
+            "name":"227.jk02.png",
+            "url":"https://raw.githubusercontent.com/miulove/Miu-Acg/master/227/jk02.png"
         }
     ],
     "description":"Qure Color (All) 是 Qure 项目下的彩色主题的「所有」图标集 @Koolson"
